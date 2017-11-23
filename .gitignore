@@ -1,0 +1,4 @@
+*.pyc
+scores/*
+files/goa-allOrganisms-noIEA-reviewed-unique.gaf
+files/identities.mat
